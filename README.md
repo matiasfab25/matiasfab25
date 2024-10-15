@@ -2,7 +2,7 @@ Hi, I’m @matiasfab25
 👀 I’m interested in software development.
 🌱 I’m currently learning more about programming.
 💞️ I’m looking to collaborate on projects related to software development, web development, and software solutions.
-📫 How to reach me: matias.fcaceres25@gmail.com
+📫 How to reach me: matiasfcaceres25@gmail.com
 😄 Pronouns: He/Him
 ⚡ Fun fact: I completed an academic project in Java using ZK Framework for managing clients, products, and invoices.
 <!---
